@@ -1,0 +1,4 @@
+#Wed Jul 25 20:50:28 BRT 2018
+base.0=C\:\\Users\\levyv\\AndroidStudioProjects\\Levy\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\23
+path.0=classes.dex
+renamed.0=classes.dex

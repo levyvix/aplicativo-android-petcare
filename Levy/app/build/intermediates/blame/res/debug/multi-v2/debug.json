@@ -1,0 +1,64 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "204,2,1",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "7807,63,17",
+                        "endLines": "253,202,1",
+                        "endColumns": "19,19,44",
+                        "endOffsets": "9449,7799,57"
+                    },
+                    "to": {
+                        "startLines": "2,52,256",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,1653,9338",
+                        "endLines": "51,252,256",
+                        "endColumns": "19,19,44",
+                        "endOffsets": "1648,9189,9378"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
+                    },
+                    "to": {
+                        "startLines": "253,254,255",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "9194,9240,9287",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "9235,9282,9333"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "387"
+                    },
+                    "to": {
+                        "startLines": "257",
+                        "startColumns": "4",
+                        "startOffsets": "9383",
+                        "endLines": "262",
+                        "endColumns": "12",
+                        "endOffsets": "9708"
+                    }
+                }
+            ]
+        }
+    ]
+}

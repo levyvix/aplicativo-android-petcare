@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_catto.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-mdpi\\catto.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_catto.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xhdpi\\catto.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_d.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-mdpi\\d.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_doggo.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-ldpi\\doggo.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_registropet.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-mdpi\\registropet.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_m.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxhdpi\\m.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_done_black_48.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_done_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_r.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-hdpi\\r.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_r.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxxhdpi\\r.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_catto.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxhdpi\\catto.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_baseline_done_black_18.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxxhdpi\\baseline_done_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\layout_doggo.xml.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\layout\\doggo.xml"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_d.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-hdpi\\d.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_r.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-mdpi\\r.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_splash.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_back.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-v24\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_d.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xhdpi\\d.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_registropet.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxhdpi\\registropet.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_tela1.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-v24\\tela1.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_done_black_48.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xhdpi\\baseline_done_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_splash.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_done_black_18.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-hdpi\\baseline_done_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_registropet.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xhdpi\\registropet.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_splash.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-ldpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_done_black_48.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-mdpi\\baseline_done_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_doggo.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-hdpi\\doggo.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_r.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xhdpi\\r.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_splash.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-mdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_c.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-hdpi\\c.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_d.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxxhdpi\\d.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_catto.xml.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\layout\\activity_catto.xml"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_registropet.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxxhdpi\\registropet.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_doggo.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxxhdpi\\doggo.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_doggo.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xhdpi\\doggo.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_c.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xhdpi\\c.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_done_black_48.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_done_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_doggo.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-mdpi\\doggo.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_m.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxxhdpi\\m.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_cc.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxhdpi\\cc.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_registropet.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-ldpi\\registropet.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_baseline_done_black_18.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxhdpi\\baseline_done_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_m.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-hdpi\\m.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_catto.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-ldpi\\catto.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_r.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-ldpi\\r.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_catto.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-hdpi\\catto.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_baseline_done_black_18.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xhdpi\\baseline_done_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\layout_registropet.xml.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\layout\\registropet.xml"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_r.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxhdpi\\r.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_catto.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxxhdpi\\catto.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_d.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxhdpi\\d.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_d.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-ldpi\\d.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_c.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxxhdpi\\c.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_doggo.xml.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\layout\\activity_doggo.xml"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_c.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-ldpi\\c.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_registropet.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-hdpi\\registropet.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_baseline_done_black_48.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-hdpi\\baseline_done_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_doggo.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxhdpi\\doggo.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_c.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-mdpi\\c.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_splash.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxhdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_c.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxhdpi\\c.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_next.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-v24\\next.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\layout_catto.xml.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\layout\\catto.xml"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_m.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xhdpi\\m.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_baseline_done_black_18.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-mdpi\\baseline_done_black_18.png"
+    },
+    {
+        "merged": "C:\\Users\\levyv\\Desktop\\Levy\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_dxxxhdpi.png.flat",
+        "source": "C:\\Users\\levyv\\Desktop\\Levy\\app\\src\\main\\res\\drawable-xxxhdpi\\dxxxhdpi.png"
+    }
+]

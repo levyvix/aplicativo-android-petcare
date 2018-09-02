@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cats">
+        <item>ABISSÍNIO</item>
+        <item>ANGORÁ</item>
+        <item>BALINÊS</item>
+        <item>BENGAL</item>
+        <item>BOBTAIL AMERICANO</item>
+        <item>BOBTAIL JAPONÊS</item>
+        <item>BOMBAY</item>
+        <item>BURMÊS</item>
+        <item>BURMÊS VERMELHO</item>
+        <item>CHARTREUX</item>
+        <item>COLORPOINT DE PÊLO CURTO</item>
+        <item>CORNISH REX</item>
+        <item>CURL AMERICANO</item>
+        <item>CYMRIC</item>
+        <item>DEVON REX</item>
+        <item>HIMALAIO</item>
+        <item>JAGUATIRICA</item>
+        <item>JAVANÊS</item>
+        <item>KORAT</item>
+        <item>LAPERM</item>
+        <item>MAINE COON</item>
+        <item>MANX</item>
+        <item>MAU EGÍPCIO</item>
+        <item>MIST AUSTRALIANO</item>
+        <item>MUNCHKIN</item>
+        <item>NORUEGUÊS DA FLORESTA</item>
+        <item>OCICAT</item>
+        <item>PELO CURTO AMERICANO</item>
+        <item>PELO CURTO BRASILEIRO</item>
+        <item>PELO CURTO EUROPEU</item>
+        <item>PELO CURTO INGLÊS</item>
+        <item>PERSA</item>
+        <item>PIXIE-BOB</item>
+        <item>RAGDOLL</item>
+        <item>RUSSO AZUL</item>
+        <item>SAGRADO DA BIRMÂNIA</item>
+        <item>SAVANNAH</item>
+        <item>SCOTTISH FOLD</item>
+        <item>SELKIRK REX</item>
+        <item>SIAMÊS</item>
+        <item>SIBERIANO</item>
+        <item>SINGAPURA</item>
+        <item>SOMALI</item>
+        <item>SPHYNX</item>
+        <item>THAI</item>
+        <item>TONQUINÊS</item>
+        <item>TOYGER</item>
+        <item>USURI</item>
+    </string-array>
+    <string-array name="dogs">
+        <item>AFFENPINSCHER</item>
+        <item>AFGHAN HOUND</item>
+        <item>AIREDALE TERRIER</item>
+        <item>AKITA</item>
+        <item>AKITA AMERICANO</item>
+        <item>AMERICAN PIT BULL TERRIER</item>
+        <item>AMERICAN STAFFORDSHIRE TERRIER</item>
+        <item>AUSTRALIAN SHEPHERD</item>
+        <item>BASENJI</item>
+        <item>BASSET / DACHSHOUND</item>
+        <item>BASSET COLLIE</item>
+        <item>BASSET FULVO DA BRETANHA</item>
+        <item>BASSET HOUND</item>
+        <item>BEAGLE</item>
+        <item>BEAGLE HARRIER</item>
+        <item>BEARDED COLLIE</item>
+        <item>BEDLINGTON TERRIER</item>
+        <item>BERNESE MOUNTAIN DOG</item>
+        <item>BICHON BOLONHÊS</item>
+        <item>BICHON FRISÉ</item>
+        <item>BICHON HAVANÊS</item>
+        <item>BILLY</item>
+        <item>BLOODHOUND</item>
+        <item>BOERBOEL</item>
+        <item>BOIADEIRO AUSTRALIANO</item>
+        <item>BOIADEIRO DE ENTLEBUCH</item>
+        <item>BOIADEIRO DE FLANDRES</item>
+        <item>BORDER COLLIE</item>
+        <item>BORDER TERRIER</item>
+        <item>BORZOI</item>
+        <item>BOSTON TERRIER</item>
+        <item>BOUVIER DE FLANDRES</item>
+        <item>BOXER</item>
+        <item>BRACO ALEMÃO PELO CURTO</item>
+        <item>BRACO ALEMÃO PELO DURO</item>
+        <item>BRACO ITALIANO</item>
+        <item>BULDOG AMERICANO</item>
+        <item>BULDOG FRANCÊS</item>
+        <item>BULDOG TERRIER</item>
+        <item>BULL TERRIER STANDARD</item>
+        <item>BULLDOG INGLÊS</item>
+        <item>BULLMASTIFF</item>
+        <item>CAIM TERRIER</item>
+        <item>CANE CORSO</item>
+        <item>CÃO D AGUA ESPANHOL</item>
+        <item>CÃO D AGUA PORTUGUÊS</item>
+        <item>CÃO DA SERRA DA ESTRELA</item>
+        <item>CÃO DE CRISTA CHINÊS</item>
+        <item>CÃO DE SANTO HUMBERTO</item>
+        <item>CÃO LOBO CHECOSLOVACO</item>
+        <item>CÃO PELADO DE CRISTA CHINÊS</item>
+        <item>CÃO PELADO MEXICANO</item>
+        <item>CÃO PELADO PERUANO</item>
+        <item>CAVALIER KINGNCHARLES SPANIEL</item>
+        <item>CESKY TERRIER</item>
+        <item>CHESAPEAKE BAY RETRIEVER</item>
+        <item>CHIHUAHUA</item>
+        <item>CHIN</item>
+        <item>CHOW CHOW</item>
+        <item>CIMARRON URUGUAIO</item>
+        <item>CIRNECO DO ETNA</item>
+        <item>CLUMBER SPANIEL</item>
+        <item>COCKER SPANIEL AMERICANO</item>
+        <item>COCKER SPANIEL INGLÊS</item>
+        <item>COLLIE</item>
+        <item>COTON DE TULEAR</item>
+        <item>DACHSHOUND TECKEL</item>
+        <item>DÁLMATA</item>
+        <item>DANDIE  DINMONT TERRIER</item>
+        <item>DOBERMANN</item>
+        <item>DOGO ARGENTINO</item>
+        <item>DOGO CANÁRIO</item>
+        <item>DOGUE ALEMÃO</item>
+        <item>DOGUE DE BORDEAUX</item>
+        <item>ELKHOUND NORUEGUÊS CINZA</item>
+        <item>FILA BRASILEIRO</item>
+        <item>FLAT COATED RETRIEVER</item>
+        <item>FOX PAULISTINHA / TERRIER BRASILEIRO</item>
+        <item>FOX TERRIER</item>
+        <item>FOXHOUND AMERICANO</item>
+        <item>FOXHOUND INGLÊS</item>
+        <item>GALGO ESPANHOL</item>
+        <item>GOLDEN RETRIEVER</item>
+        <item>GRAND MUNSTERLANDER</item>
+        <item>GREYHOUND</item>
+        <item>GRIFFON BELGA</item>
+        <item>GRIFFON DE BRUXELAS</item>
+        <item>GRIFFON NIVERMAIS</item>
+        <item>HOKKAIDO</item>
+        <item>HUSKY SIBERIANO</item>
+        <item>IBIZAN HOUND</item>
+        <item>IRISH SOFT COATED WHEATEN TERRIER</item>
+        <item>IRISH WOLFHOUND</item>
+        <item>JACK RUSSEL TERRIER</item>
+        <item>KERRY BLUE TERRIER</item>
+        <item>KOMONDOR</item>
+        <item>KUVASZ</item>
+        <item>LABRADOR RETRIEVER</item>
+        <item>LAGOTTO ROMAGNOLO</item>
+        <item>LAKELAND TERRIER</item>
+        <item>LEONBERGER</item>
+        <item>LHASA APSO</item>
+        <item>LULU DA POMERÂNEA </item>
+        <item>MALAMUTE DO ALASKA</item>
+        <item>MALTÊS</item>
+        <item>MASTIFF</item>
+        <item>MASTIM BRETÃO</item>
+        <item>MASTIM ESPANHOL</item>
+        <item>MASTINO NAPOLETANO</item>
+        <item>MUDI</item>
+        <item>NORFOLK TERRIER</item>
+        <item>NORWICH TERRIER</item>
+        <item>OLD ENGLISH SHEEPDOG</item>
+        <item>PAPPILON</item>
+        <item>PASTOR ALEMÃO</item>
+        <item>PASTOR AUSTRALIANO</item>
+        <item>PASTOR BEAUCERON</item>
+        <item>PASTOR BELGA GROENENDAEL</item>
+        <item>PASTOR BELGA MALINOIS</item>
+        <item>PASTOR BERGAMASCO</item>
+        <item>PASTOR BRANCO SUIÇO</item>
+        <item>PASTOR BRIARD</item>
+        <item>PASTOR DA ÁSIA CENTRAL</item>
+        <item>PASTOR DE  SHETLAND</item>
+        <item>PASTOR DE BRIE OU BRIARD</item>
+        <item>PASTOR DOS PIRINEUS</item>
+        <item>PASTOR MAREMANO ABRUZÊS</item>
+        <item>PASTOR POLONÊS</item>
+        <item>PASTOR POLONÊS DE PODHAL</item>
+        <item>PASTOR RUSSELL TERRIER</item>
+        <item>PEQUENO BASSET GRIFFON DA VENDÉIA</item>
+        <item>PEQUENO CÃO LEÃO</item>
+        <item>PEQUENO LEBREL ITALIANO</item>
+        <item>PEQUENO LEBRET</item>
+        <item>PEQUINÊS</item>
+        <item>PERDIGUEIRO PORTUGUÊS</item>
+        <item>PETIT BRABANÇON</item>
+        <item>PHARAOH HOUND</item>
+        <item>PINSCHER MÉDIO</item>
+        <item>PINSCHER MINIATURA</item>
+        <item>PODENGO CANÁRIO</item>
+        <item>PODENGO IBICENCO</item>
+        <item>PODENGO PORTUGUÊS</item>
+        <item>POINTER INGLÊS</item>
+        <item>POODLE  TOY</item>
+        <item>POODLE ANÃO</item>
+        <item>POODLE MÉDIO</item>
+        <item>POODLE STANDARD</item>
+        <item>PUG</item>
+        <item>PULI</item>
+        <item>PUMI</item>
+        <item>RAFEIRO DO ALENTEJO</item>
+        <item>RHODESIAN RIDGBACK</item>
+        <item>ROTTWEILER</item>
+        <item>SALUKI</item>
+        <item>SAMOIEDA</item>
+        <item>SÃO BERNARDO</item>
+        <item>SCHIPPERKE</item>
+        <item>SCHNAUZER GIGANTE</item>
+        <item>SCHNAUZER MÉDIO</item>
+        <item>SCHNAUZER MINIATURA</item>
+        <item>SCOTTISH TERRIER</item>
+        <item>SEALYHAM TERRIER</item>
+        <item>SETTER INGLÊS</item>
+        <item>SETTER IRLANDÊS VERMELHO</item>
+        <item>SHAR PEI</item>
+        <item>SHEEPDOG</item>
+        <item>SHIBA</item>
+        <item>SHIH-TZU</item>
+        <item>SILKY TERRIER AUSTRALIANO</item>
+        <item>SKYE TERRIER</item>
+        <item>SMOUSHOUND HOLANDÊS</item>
+        <item>SPANIEL BRETÃO</item>
+        <item>SPIONE ITALIANO</item>
+        <item>SPITZ ALEMÃO ANÃO</item>
+        <item>SPITZ FINLANDÊS</item>
+        <item>SPITZ JAPONÊS ANÃO</item>
+        <item>SPRINGER SPANIEL INGLÊS</item>
+        <item>STABYHOUN</item>
+        <item>STAFFORDSHIRE BULL TERRIER</item>
+        <item>TERRA NOVA</item>
+        <item>TERRIER ALEMÃO JAGD</item>
+        <item>TERRIER AUSTRALIANO</item>
+        <item>TERRIER BRASILEIRO</item>
+        <item>TERRIER IRLANDES</item>
+        <item>TERRIER PRETO DA RÚSSIA</item>
+        <item>TIBETAN TERRIER</item>
+        <item>TOSA INU</item>
+        <item>VIRA LATAS</item>
+        <item>VIZLA PELO CURTO / BRACO HÚNGARO</item>
+        <item>VOLPINO ITALINO</item>
+        <item>WEIMARANER</item>
+        <item>WELSH CORGI CARDIGAN</item>
+        <item>WELSH CORGI PEMBROKE</item>
+        <item>WELSH SPRINGER SPANIEL</item>
+        <item>WELSH TERRIER</item>
+        <item>WEST HIGHLAND WHITE TERRIER</item>
+        <item>WHIPPET</item>
+        <item>YORKSHIRE TERRIER</item>
+    </string-array>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <string name="app_name">PetCare</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@android:color/background_light</item>
+    </style>
+</resources>

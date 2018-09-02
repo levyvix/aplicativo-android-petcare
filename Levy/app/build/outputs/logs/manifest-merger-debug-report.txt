@@ -1,0 +1,85 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:2:1-38:12
+INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:2:1-38:12
+	package
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:3:5-33
+		INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:2:1-38:12
+		INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:5:5-36:19
+	android:supportsRtl
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.app.levyv.levy.SplashActivity
+ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:12:19-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.app.levyv.levy.doggo
+ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:19:9-43
+	android:name
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:19:19-40
+activity#com.app.levyv.levy.catto
+ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:20:9-43
+	android:name
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:20:19-40
+activity#com.app.levyv.levy.MainActivity
+ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:21:9-27:20
+	android:name
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:21:19-47
+activity#com.app.levyv.levy.menu
+ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:28:19-39
+activity#com.app.levyv.levy.a
+ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:35:9-48
+	android:name
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml:35:19-36
+uses-sdk
+INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\levyv\Desktop\Levy\app\src\main\AndroidManifest.xml

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/r"
+    android:visibility="visible"
+    tools:layout_editor_absoluteY="73dp">
+
+    <RadioGroup
+        android:id="@+id/animal"
+        android:layout_width="wrap_content"
+        android:layout_height="28dp"
+        android:layout_marginStart="2dp"
+        android:layout_marginTop="58dp"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RadioButton
+            android:id="@+id/dogButton"
+            android:layout_width="148dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:checked="false" />
+
+        <RadioButton
+            android:id="@+id/catButton"
+            android:layout_width="82dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="70dp"
+            android:layout_weight="1"
+            android:checked="false"
+            android:enabled="true" />
+    </RadioGroup>
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="265dp"
+        android:layout_height="45dp"
+        android:layout_marginBottom="241dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="246dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.405"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.428"
+        app:layout_constraintVertical_chainStyle="spread_inside" />
+
+    <EditText
+        android:id="@+id/nomePet"
+        android:layout_width="251dp"
+        android:layout_height="52dp"
+        android:ems="10"
+        android:hint="Nome do Pet..."
+        android:inputType="textPersonName"
+        android:textColor="@android:color/background_light"
+        android:textColorLink="@android:color/darker_gray"
+        android:textSize="24sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.504"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.374" />
+
+    <ImageView
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="36dp"
+        android:layout_marginEnd="28dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.996"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0"
+        app:srcCompat="@drawable/baseline_done_black_48" />
+
+    <RadioGroup
+        android:id="@+id/sexo"
+        android:layout_width="wrap_content"
+        android:layout_height="31dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.598">
+
+        <RadioButton
+            android:id="@+id/macho"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="100dp"
+            android:layout_weight="1"
+            android:enabled="true" />
+
+        <RadioButton
+            android:id="@+id/fem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="120dp"
+            android:layout_weight="1" />
+    </RadioGroup>
+
+    <RadioGroup
+        android:id="@+id/idade"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.708">
+
+        <RadioButton
+            android:id="@+id/ate7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Até 7 anos"
+            android:textColor="@android:color/background_light"
+            android:textSize="14sp" />
+
+        <RadioButton
+            android:id="@+id/entre811"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Entre 8 e 11"
+            android:textColor="@android:color/background_light"
+            android:textSize="14sp" />
+
+        <RadioButton
+            android:id="@+id/acima11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Acima de 11"
+            android:textColor="@android:color/background_light"
+            android:textSize="15sp" />
+
+    </RadioGroup>
+
+    <RadioGroup
+        android:id="@+id/peso"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:layout_marginTop="8dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.803">
+
+        <RadioButton
+            android:id="@+id/ate5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Até 5kg"
+            android:textColor="@android:color/background_light"
+            android:textSize="16sp" />
+
+        <RadioButton
+            android:id="@+id/entre610"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Entre 6kg e 10kg"
+            android:textColor="@android:color/background_light" />
+
+        <RadioButton
+            android:id="@+id/acima10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Acima de 10kg"
+            android:textColor="@android:color/background_light" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="51dp"
+        android:layout_height="21dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        android:text="Enviar"
+        android:textColor="@android:color/background_light"
+        android:textSize="18sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.903"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.983" />
+
+</android.support.constraint.ConstraintLayout>
